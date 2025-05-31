@@ -6,7 +6,7 @@ View model shotgun
 ==============================================================================
 */
 
-$modelname weapons/v_shotgun.mdl
+$modelname weapons/hl2_c/v_shotgun.mdl
 $cdmaterials models\Weapons\v_shotgun models\weapons\shell
 
 $include .\..\_v_models_hl2_definebones_l.qci

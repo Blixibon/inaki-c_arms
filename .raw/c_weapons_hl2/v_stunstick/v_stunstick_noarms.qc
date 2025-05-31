@@ -6,10 +6,10 @@ Stun Stick
 ==============================================================================
 */
 
-$modelname weapons/v_stunstick.mdl
+$modelname weapons/hl2_c/v_stunstick.mdl
 $cdmaterials models\weapons\v_stunstick\
 
-$include .\..\_v_models_hl2_definebones_r.qci
+$include .\..\_v_models_hl2_definebones.qci
 
 // whole body
 $body studio "stunstick_ref.smd"
@@ -46,3 +46,7 @@ $sequence hitcenter2 "Attackcenter02" fps 30 snap activity ACT_VM_HITCENTER 1
 $sequence hitcenter3 "Attackcenter03" fps 30 snap activity ACT_VM_HITCENTER 1
 $sequence hitkill1 "Hitkill01" fps 30 snap activity ACT_VM_HITKILL 1
 $sequence holster "Holster" fps 30 activity ACT_VM_HOLSTER 1
+
+$pushd "../v_crowbar/"
+$sequence armpos_crowbar_fixup "armpos_crowbar_fixup" frame 0 0 subtract "Idle01" 0 delta hidden autoplay
+$popd

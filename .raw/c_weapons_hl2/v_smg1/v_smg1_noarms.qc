@@ -6,7 +6,7 @@ View model SMG1
 ==============================================================================
 */
 
-$modelname weapons/v_smg1.mdl
+$modelname weapons/hl2_c/v_smg1.mdl
 $cdmaterials models\weapons\v_smg1
 
 $include .\..\_v_models_hl2_definebones.qci

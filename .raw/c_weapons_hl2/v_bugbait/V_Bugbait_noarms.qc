@@ -1,5 +1,5 @@
 
-$modelname weapons/v_bugbait.mdl
+$modelname weapons/hl2_c/v_bugbait.mdl
 $cdmaterials models\weapons\v_bugbait
 
 $body studio "V_Bugbait_ref"

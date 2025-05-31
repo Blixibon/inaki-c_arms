@@ -6,7 +6,7 @@ Rocket launcher
 ==============================================================================
 */
 
-$modelname weapons/v_rpg.mdl
+$modelname weapons/hl2_c/v_rpg.mdl
 
 $cdmaterials models/weapons/v_rocket_launcher models\Weapons\V_hand
 

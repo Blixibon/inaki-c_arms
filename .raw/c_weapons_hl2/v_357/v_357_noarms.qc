@@ -6,7 +6,7 @@ View model 357
 ==============================================================================
 */
 
-$modelname weapons/v_357.mdl
+$modelname weapons/hl2_c/v_357.mdl
 $cdmaterials models\weapons\V_357
 
 $include .\..\_v_models_hl2_definebones.qci

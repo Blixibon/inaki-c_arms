@@ -6,7 +6,7 @@ SuperPhysics Cannon
 ==============================================================================
 */
 
-$modelname weapons/v_superphyscannon.mdl
+$modelname weapons/hl2_c/v_superphyscannon.mdl
 
 $cdmaterials models/weapons/v_physcannon
 

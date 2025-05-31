@@ -6,7 +6,7 @@ View model Pistol
 ==============================================================================
 */
 
-$modelname weapons/v_pistol.mdl
+$modelname weapons/hl2_c/v_pistol.mdl
 $cdmaterials models\weapons\v_pistol
 
 $include .\..\_v_models_hl2_definebones.qci

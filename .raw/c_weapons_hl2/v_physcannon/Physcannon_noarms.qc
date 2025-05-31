@@ -6,7 +6,7 @@ Physics Cannon
 ==============================================================================
 */
 
-$modelname weapons/v_physcannon.mdl
+$modelname weapons/hl2_c/v_physcannon.mdl
 
 $cdmaterials models/weapons/v_physcannon
 

@@ -5,7 +5,7 @@
 
 //======================================
 
-$modelname "Weapons/v_crossbow.mdl"
+$modelname "weapons/hl2_c/v_crossbow.mdl"
 $cdmaterials models\weapons\v_crossbow
 $scale 1.0
 

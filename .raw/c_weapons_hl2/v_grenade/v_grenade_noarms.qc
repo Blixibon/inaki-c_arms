@@ -6,7 +6,7 @@ View model Grenade
 ==============================================================================
 */
 
-$modelname weapons/v_grenade.mdl
+$modelname weapons/hl2_c/v_grenade.mdl
 $cdmaterials models\weapons\v_grenade
 
 $include .\..\_v_models_hl2_definebones.qci

@@ -6,7 +6,7 @@ IRifle
 ==============================================================================
 */
 
-$modelname weapons/v_irifle.mdl
+$modelname weapons/hl2_c/v_irifle.mdl
 $cdmaterials models\Weapons\V_hand models\Weapons\V_irifle
 
 $include .\..\_v_models_hl2_definebones.qci
